@@ -1,6 +1,9 @@
 # rockyou
 
+
 Combination-based password generator.
+
+max-length is misspelled in app.py
 
 ### Usage
 
